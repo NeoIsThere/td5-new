@@ -1,0 +1,8 @@
+﻿  CodeDemande.cpp
+C:\td five\CodeDemande.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+  CodeFourni.cpp
+  main.cpp
+C:\td five\CodeDemande.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\td five\main.cpp(124,7): warning C4101: 'ok': unreferenced local variable
+  td five.vcxproj -> C:\td five\Debug\td five.exe
