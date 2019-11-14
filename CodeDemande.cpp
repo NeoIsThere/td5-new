@@ -55,7 +55,7 @@ lireEnteteFichier ( fstream& fichier )
 	return a;
 
 }
-//test 1-2 test 1-2
+//test 1-2 
 
 void
 lireDonneesImage(fstream& fichier, Image& image)
