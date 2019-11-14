@@ -33,7 +33,7 @@ void executerPartie2 ( );
 string construireNomFichierResultat ( const string&, const string& );
 
 
-
+//comentaire
 
 int main ( )
 {
